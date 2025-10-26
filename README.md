@@ -13,9 +13,15 @@
 
 量子可积模型，量子逆散射法(i.e. Algebraic Bethe Ansatz)和Thermodynamic Bethe Ansatz, 以及他们在gl_n(n≥3)自旋链上的应用。
 
+## 游戏兴趣
+
+-命运2 (1300h, 主玩猎人)
+
+-战舰世界(美服，主玩驱逐和巡洋，偶尔玩战列，是红表海猴)
+
 ## 其它
 
-USS-CaptainJTK comes from "Star Trek" where Captain of Starship USS Enterprise, NCC-1701, is James T Kirk.
+USS-CaptainJTK comes from "Star Trek" where Captain of Starship USS Enterprise, NCC-1701, is James T Kirk. I first learned about this back in junior high school — a time shimmering with wonder. Those were the days when I reached out to the most beautiful dreams: to become a physicist and explore the vast universe. It was also when I encountered the first and deepest love of my life, a feeling that still glows softly in memory. Though that love lasted for only about a year, it taught me what it truly means to love someone. She was also the first person in the world who ever called me “the great physicist.” Even now, I sometimes find myself moved to tears late at night, thinking of those days.
 
 
 # 教育背景
