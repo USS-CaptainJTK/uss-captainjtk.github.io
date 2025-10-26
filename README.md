@@ -36,29 +36,31 @@ USS-CaptainJTK comes from "Star Trek" where Captain of Starship USS Enterprise, 
 
 # 笔记们
 
--表示论与同调代数(taught by Dr.C.Raymond and Dr.P.Kinnear, 涵盖基本的模论，范畴论及同调代数)https://www.overleaf.com/read/nghqmnxdmhck#f00a29
+除了量子场论的笔记以外，其他笔记均是中文。
 
--共形场论(taught by Prof.V.Schomerus and Prof.J.Teschner, 分别涵盖物理与数学方面)https://www.overleaf.com/read/rkfbnykpfcdw#7d1b10
+-表示论与同调代数(taught by Dr.C.Raymond and Dr.P.Kinnear, 涵盖基本的模论，范畴论及同调代数)[upwork](https://www.overleaf.com/read/nghqmnxdmhck#f00a29)
 
--李代数与表示论(自学笔记，为了快速弥补一些数学空白)https://www.overleaf.com/read/ynfskkrypfwv#15705f
+-共形场论(taught by Prof.V.Schomerus and Prof.J.Teschner, 分别涵盖物理与数学方面)[upwork](https://www.overleaf.com/read/rkfbnykpfcdw#7d1b10)
 
--超对称与几何的补充笔记(taught by Prof.J.Teschner, 一些关于超对称与可积系统和黎曼曲面的联系，特别是AGT correspondence)https://www.overleaf.com/read/hxkjjygtpbgb#2076ab
+-李代数与表示论(自学笔记，为了快速弥补一些数学空白)[upwork](https://www.overleaf.com/read/ynfskkrypfwv#15705f)
 
--超对称与几何(taughty by Prof.J.Teschner, 涵盖数学角度的超对称及其与(special, hyper-)Kähler几何的联系)https://www.overleaf.com/read/rbrkwzzmhhnk#ec618f
+-超对称与几何的补充笔记(taught by Prof.J.Teschner, 一些关于超对称与可积系统和黎曼曲面的联系，特别是AGT correspondence)[upwork](https://www.overleaf.com/read/hxkjjygtpbgb#2076ab)
 
--弦论(taught by Prof.G.Arutyunov)https://www.overleaf.com/read/gssnmvmmnhty#f5735d
+-超对称与几何(taughty by Prof.J.Teschner, 涵盖数学角度的超对称及其与(special, hyper-)Kähler几何的联系)[upwork](https://www.overleaf.com/read/rbrkwzzmhhnk#ec618f)
 
--量子场论(taught by Prof.T.Weigand, 写过的最困难的笔记)https://www.overleaf.com/read/fmvdypmjwrtv#d8a1e1
+-弦论(taught by Prof.G.Arutyunov)[upwork](https://www.overleaf.com/read/gssnmvmmnhty#f5735d)
 
--辛几何(这是Seminar的笔记，很短，遵循McDuff/Salamon的书)https://www.overleaf.com/read/vpwmbjptrzxr#47278b
+-量子场论(taught by Prof.T.Weigand, 写过的最困难的笔记)[upwork](https://www.overleaf.com/read/fmvdypmjwrtv#d8a1e1)
 
--黎曼曲面(taught by Prof.J.Teschner，遵循Bobenko的讲义和Forster的书)https://www.overleaf.com/read/qbdkkmspxpwk#66325f
+-辛几何(这是Seminar的笔记，很短，遵循McDuff/Salamon的书)[upwork](https://www.overleaf.com/read/vpwmbjptrzxr#47278b)
 
--实验物理问题集，用来准备本科实验物理毕业口试的https://www.overleaf.com/read/bqbgkwzfbmrh#5019e6
+-黎曼曲面(taught by Prof.J.Teschner，遵循Bobenko的讲义和Forster的书)[upwork](https://www.overleaf.com/read/qbdkkmspxpwk#66325f)
 
--微分几何(taught by Prof.J.Latschev包含基本的光滑流形和黎曼几何的内容)https://www.overleaf.com/read/txvbkjyhkcmz#c4cd00
+-实验物理问题集，用来准备本科实验物理毕业口试的[upwork](https://www.overleaf.com/read/bqbgkwzfbmrh#5019e6)
 
--固体物理(一些关于能带理论的简单笔记)https://www.overleaf.com/read/zdkzvnkvrrgt#7ebe37
+-微分几何(taught by Prof.J.Latschev包含基本的光滑流形和黎曼几何的内容)[upwork](https://www.overleaf.com/read/txvbkjyhkcmz#c4cd00)
+
+-固体物理(一些关于能带理论的简单笔记)[upwork](https://www.overleaf.com/read/zdkzvnkvrrgt#7ebe37)
 
 
 # 做过的研究
