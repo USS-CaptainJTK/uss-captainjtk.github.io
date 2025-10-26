@@ -3,7 +3,7 @@
 
 
 # 教育背景
-Some University 中文
+
 
 2025.10.1-至今Universität Hamburg, Mathematical Physics
 
