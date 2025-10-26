@@ -8,5 +8,5 @@
 ### Project 2
 
 # Education
--Some University
+-Some University 中文
 
