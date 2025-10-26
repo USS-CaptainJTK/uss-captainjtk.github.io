@@ -2,7 +2,20 @@
 
 # Introduction
 
+## 语言
+-Chinese(Manderin): Motherlanguage
 
+-English: C1
+
+-German: C1 (TestDaf 19)
+
+## 研究兴趣
+
+量子可积模型，量子逆散射法(i.e. Algebraic Bethe Ansatz)和Thermodynamic Bethe Ansatz, 以及他们在gl_n(n≥3)自旋链上的应用。
+
+## 其它
+
+USS-CaptainJTK comes from "Star Trek" where Captain of Starship USS Enterprise, NCC-1701, is James T Kirk.
 
 
 # 教育背景
