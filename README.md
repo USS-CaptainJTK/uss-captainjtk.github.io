@@ -42,7 +42,7 @@ USS-CaptainJTK comes from "Star Trek" where Captain of Starship USS Enterprise, 
 
 # 笔记们
 
-除了量子场论的笔记以外，其他笔记均是中文。
+除了量子场论笔记和超对称与几何的补充笔记以外，其他笔记均是中文。
 
 -表示论与同调代数(taught by Dr.C.Raymond and Dr.P.Kinnear, 涵盖基本的模论，范畴论及同调代数)[upwork](https://www.overleaf.com/read/nghqmnxdmhck#f00a29)
 
