@@ -44,6 +44,8 @@ USS-CaptainJTK comes from "Star Trek" where Captain of Starship USS Enterprise, 
 
 除了量子场论笔记和超对称与几何的补充笔记以外，其他笔记均是中文。
 
+-可积系统(自学笔记，遵循G.Arutyunov的书)[upwork](https://www.overleaf.com/read/hqqmdgmrszdr#cb5fee)
+
 -表示论与同调代数(taught by Dr.C.Raymond and Dr.P.Kinnear, 涵盖基本的模论，范畴论及同调代数)[upwork](https://www.overleaf.com/read/nghqmnxdmhck#f00a29)
 
 -共形场论(taught by Prof.V.Schomerus and Prof.J.Teschner, 分别涵盖物理与数学方面)[upwork](https://www.overleaf.com/read/rkfbnykpfcdw#7d1b10)
