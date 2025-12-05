@@ -86,6 +86,8 @@ USS-CaptainJTK comes from "Star Trek" where Captain of Starship USS Enterprise, 
 
 ![Text](images/greatphysicist.jpg)
 
+![Text](https://raw.githubusercontent.com/USS-CaptainJTK/uss-captainjtk.github.io/main/images/greatphysicist.jpg)
+
 
 
 
