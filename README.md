@@ -82,7 +82,14 @@ USS-CaptainJTK comes from "Star Trek" where Captain of Starship USS Enterprise, 
 
 
 
-# Others
+# Logbook of my life
+
+## 儿童
+
+### 20040314
+
+
+## 青少年
 [一张神秘的图片](https://raw.githubusercontent.com/USS-CaptainJTK/uss-captainjtk.github.io/main/images/greatphysicist.jpg)，[来自于她](https://raw.githubusercontent.com/USS-CaptainJTK/uss-captainjtk.github.io/main/images/zzzxxxyyy.jpg)
 
 
