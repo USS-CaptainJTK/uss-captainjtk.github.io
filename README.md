@@ -88,10 +88,14 @@ USS-CaptainJTK comes from "Star Trek" where Captain of Starship USS Enterprise, 
 
 # Others
 
+##
+
+-18/12/2025: Heute war ein grauer, kalter Tag. Ich erhilt eine Mitteilung vom Studienbüro: Mein Abschusszeugnis liegt zur Abholung bereit. Es gab niemanden, der mich begleitete, keine Feier, keine Zeremonie, kein Ritual. Ganz leise bin ich zu Ende gegangen mit diesem Abschnitt meines Lebens, allein. Am Abend ging ich essen, eine gute Schüssel Malaban, als eine kleine Geste der Selbstbelohnung. Doch ist das wirklich etwas, das man feiern kann? Vielleicht ist es einfach so, dass die Deutschen tatsächlich wenig Sinn für Rituale haben. Außerdem sah ich heute ein Video, dass ZXY in ihrem Freundeskreis in WeChat geteilt hatte. Daring sang sie: "在困难中的我想对着天讲述，无论如何，下班快乐". Plötzlich wurde mir bewusst, dass eine Stimme, die mir einst unendlich vertraut gewesen war, mir nun fremd erschien. Wenn ich darüber nachdenke, ist das wohl nicht überraschend. Seit unserem Abschluss im Jahr 2021 haben wir uns fast sechs Jahre lang nicht mehr gesehen. Sech Jahre Welt, wei könnte sich da nicht vieles verändern? Zumal die Stimme, die mir bis heute im Ohr nachhallt, aus dem Jahr 2017 stammt. Neun Jahre sind vergangen. Es schmerzt mich zu erkennen, wie machtlos ich gegenüber der Zeit bin, und gegenüber meinem eigenen Inneren, oder vielleicht genauer gesagt, gegenüber meiner eigenen Hartnäckigkeit, meiner nicht loslassenden Bindung.
+
+-17/12/2025: Among all those I have lost, the one I long for most is myself. The teenage version of me, fiercer, more daring, and charged with a vitality I can no longer quite reclaim. 春风若有怜花意，可否许我再少年？
 
 
-
-
+##
 [一张神秘的图片](https://raw.githubusercontent.com/USS-CaptainJTK/uss-captainjtk.github.io/main/images/greatphysicist.jpg)，[来自于她](https://raw.githubusercontent.com/USS-CaptainJTK/uss-captainjtk.github.io/main/images/zzzxxxyyy.jpg)
 
 
