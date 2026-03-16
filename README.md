@@ -92,7 +92,7 @@ USS-CaptainJTK comes from "Star Trek" where Captain of Starship USS Enterprise, 
 
 -14/03/2026: 
 
-<a href="uss-captainjtk.github.io/images/20260314.pdf" target="_blank">PDF.</a>
+[啊啊啊](https://raw.githubusercontent.com/USS-CaptainJTK/uss-captainjtk.github.io/main/images/20260314.pdf)
 
 
 
