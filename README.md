@@ -100,7 +100,7 @@ USS-CaptainJTK comes from "Star Trek" where Captain of Starship USS Enterprise, 
 [地铁上合照2](https://raw.githubusercontent.com/USS-CaptainJTK/uss-captainjtk.github.io/main/images/yxyto2.jpg)
 [公园里的合照1](https://raw.githubusercontent.com/USS-CaptainJTK/uss-captainjtk.github.io/main/images/yxytohana1.jpg)
 [公园里的合照2](https://raw.githubusercontent.com/USS-CaptainJTK/uss-captainjtk.github.io/main/images/yxytohana2.jpg)
-[公园里的合照3](https://raw.githubusercontent.com/USS-CaptainJTK/uss-captainjtk.github.io/main/images/yxytohana3.jpg)
+[公园里的合照3](https://raw.githubusercontent.com/USS-CaptainJTK/uss-captainjtk.github.io/main/images/yxytohana3-.jpg)
 [公园里的合照4](https://raw.githubusercontent.com/USS-CaptainJTK/uss-captainjtk.github.io/main/images/yxytohana4.jpg)
 [公园里的合照5](https://raw.githubusercontent.com/USS-CaptainJTK/uss-captainjtk.github.io/main/images/yxytohana5.jpg)
 [公园里的合照6](https://raw.githubusercontent.com/USS-CaptainJTK/uss-captainjtk.github.io/main/images/yxytohana6.jpg)
@@ -109,7 +109,6 @@ USS-CaptainJTK comes from "Star Trek" where Captain of Starship USS Enterprise, 
 [公园里的合照9](https://raw.githubusercontent.com/USS-CaptainJTK/uss-captainjtk.github.io/main/images/yxytohana9.jpg)
 [公园里的合照10](https://raw.githubusercontent.com/USS-CaptainJTK/uss-captainjtk.github.io/main/images/yxytohana10.jpg)
 [公园里的合照11](https://raw.githubusercontent.com/USS-CaptainJTK/uss-captainjtk.github.io/main/images/yxytohana11.jpg)
-[公园里的合照12](https://raw.githubusercontent.com/USS-CaptainJTK/uss-captainjtk.github.io/main/images/yxytohana12.jpg)
 [晚饭1](https://raw.githubusercontent.com/USS-CaptainJTK/uss-captainjtk.github.io/main/images/yxytodinner.jpg)
 [晚饭2](https://raw.githubusercontent.com/USS-CaptainJTK/uss-captainjtk.github.io/main/images/yxytodinner2.jpg)
 
