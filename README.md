@@ -15,9 +15,7 @@ Email: 3040273290，qq邮箱
 
 ## 游戏兴趣
 
--命运2 (1300h, 主玩猎人)
-
--战舰世界(美服，主玩驱逐和巡洋，偶尔玩战列，是红表海猴)
+战舰世界，命运2，战地5
 
 ## 其它
 
@@ -91,26 +89,8 @@ USS-CaptainJTK comes from "Star Trek" where Captain of Starship USS Enterprise, 
 ##
 
 -14/03/2026: 过生日。<a href="https://github.com/USS-CaptainJTK/uss-captainjtk.github.io/raw/main/Birthday,wy.pdf" target="_blank">点击查看真情流露</a>
-照片: 
-[2025年3月](https://raw.githubusercontent.com/USS-CaptainJTK/uss-captainjtk.github.io/main/images/yxyto_2025.jpg)
-[plmm1](https://raw.githubusercontent.com/USS-CaptainJTK/uss-captainjtk.github.io/main/images/yxyhana1.jpg)
-[plmm2](https://raw.githubusercontent.com/USS-CaptainJTK/uss-captainjtk.github.io/main/images/yxyhana2.jpg)
-[plmm3](https://raw.githubusercontent.com/USS-CaptainJTK/uss-captainjtk.github.io/main/images/yxyhana3.jpg)
-[plmm4](https://raw.githubusercontent.com/USS-CaptainJTK/uss-captainjtk.github.io/main/images/yxytohana10.jpg)
-[地铁上合照1](https://raw.githubusercontent.com/USS-CaptainJTK/uss-captainjtk.github.io/main/images/yxytosub1.jpg)
-[地铁上合照2](https://raw.githubusercontent.com/USS-CaptainJTK/uss-captainjtk.github.io/main/images/yxyto2.jpg)
-[公园里的合照1](https://raw.githubusercontent.com/USS-CaptainJTK/uss-captainjtk.github.io/main/images/yxytohana1.jpg)
-[公园里的合照2](https://raw.githubusercontent.com/USS-CaptainJTK/uss-captainjtk.github.io/main/images/yxytohana2.jpg)
-[公园里的合照3](https://raw.githubusercontent.com/USS-CaptainJTK/uss-captainjtk.github.io/main/images/yxytohana3-.jpg)
-[公园里的合照4](https://raw.githubusercontent.com/USS-CaptainJTK/uss-captainjtk.github.io/main/images/yxytohana4.jpg)
-[公园里的合照5](https://raw.githubusercontent.com/USS-CaptainJTK/uss-captainjtk.github.io/main/images/yxytohana5.jpg)
-[公园里的合照6](https://raw.githubusercontent.com/USS-CaptainJTK/uss-captainjtk.github.io/main/images/yxytohana6.jpg)
-[公园里的合照7](https://raw.githubusercontent.com/USS-CaptainJTK/uss-captainjtk.github.io/main/images/yxytohana7.jpg)
-[公园里的合照8](https://raw.githubusercontent.com/USS-CaptainJTK/uss-captainjtk.github.io/main/images/yxytohana8.jpg)
-[公园里的合照9](https://raw.githubusercontent.com/USS-CaptainJTK/uss-captainjtk.github.io/main/images/yxytohana9.jpg)
-[公园里的合照10](https://raw.githubusercontent.com/USS-CaptainJTK/uss-captainjtk.github.io/main/images/yxytohana11.jpg)
-[晚饭1](https://raw.githubusercontent.com/USS-CaptainJTK/uss-captainjtk.github.io/main/images/yxytodinner.jpg)
-[晚饭2](https://raw.githubusercontent.com/USS-CaptainJTK/uss-captainjtk.github.io/main/images/yxytodinner2.jpg)
+
+
 
 -10/03/2026: [我他妈申上博士了？！！](https://raw.githubusercontent.com/USS-CaptainJTK/uss-captainjtk.github.io/main/images/phdsuccess.png)
 
