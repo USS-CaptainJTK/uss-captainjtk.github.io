@@ -92,15 +92,15 @@ USS-CaptainJTK comes from "Star Trek" where Captain of Starship USS Enterprise, 
 
 
 
--10/03/2026: [我他妈申上博士了？！！](https://raw.githubusercontent.com/USS-CaptainJTK/uss-captainjtk.github.io/main/images/phdsuccess.png)
+-10/03/2026: [申上博士了！](https://raw.githubusercontent.com/USS-CaptainJTK/uss-captainjtk.github.io/main/images/phdsuccess.png)
 
--22/02/2026: 吵架。<a href="https://github.com/USS-CaptainJTK/uss-captainjtk.github.io/raw/main/Birthday,wy.pdf" target="_blank">点击查看真情流露</a>
+-22/02/2026: 吵架。<a href="https://github.com/USS-CaptainJTK/uss-captainjtk.github.io/raw/main/chaojia.txt" target="_blank">点击查看真情流露</a>
 
 -19/02/2026: 今天回国，睡不着了。周围的同学一个个都是大文豪，烦闷抑郁之时还能写点东西抒发一下，我却什么都写不出来。
 
 -31/12/2025: Heute hätte ein glücklicher Abend sein sollen. Silvester. Ein Neubeginn. Stattdessen sitze ich hier und fühle mich, als hätte mir jemand den Boden unter den Füßen weggezogen.
 
--18/12/2025: Heute war ein grauer, kalter Tag. Ich erhilt eine Mitteilung vom Studienbüro: Mein Abschusszeugnis liegt zur Abholung bereit. Es gab niemanden, der mich begleitete, keine Feier, keine Zeremonie, kein Ritual. Ganz leise bin ich zu Ende gegangen mit diesem Abschnitt meines Lebens, allein. Am Abend ging ich essen, eine gute Schüssel Malaban, als eine kleine Geste der Selbstbelohnung. Doch ist das wirklich etwas, das man feiern kann? Vielleicht ist es einfach so, dass die Deutschen tatsächlich wenig Sinn für Rituale haben. Außerdem sah ich heute ein Video, dass ZXY in ihrem Freundeskreis in WeChat geteilt hatte. Daring sang sie: "在困难中的我想对着天讲述，无论如何，下班快乐". Plötzlich wurde mir bewusst, dass eine Stimme, die mir einst unendlich vertraut gewesen war, mir nun fremd erschien. Wenn ich darüber nachdenke, ist das wohl nicht überraschend. Seit unserem Abschluss im Jahr 2021 haben wir uns fast sechs Jahre lang nicht mehr gesehen. Sech Jahre Welt, wei könnte sich da nicht vieles verändern? Zumal die Stimme, die mir bis heute im Ohr nachhallt, aus dem Jahr 2017 stammt. Neun Jahre sind vergangen. Es schmerzt mich zu erkennen, wie machtlos ich gegenüber der Zeit bin, und gegenüber meinem eigenen Inneren, oder vielleicht genauer gesagt, gegenüber meiner eigenen Hartnäckigkeit, meiner nicht loslassenden Bindung.
+-18/12/2025: emo. <a href="https://github.com/USS-CaptainJTK/uss-captainjtk.github.io/raw/main/emo.txt" target="_blank">点击查看真情流露</a>
 
 -17/12/2025: Among all those I have lost, the one I long for most is myself. The teenage version of me, fiercer, more daring, and charged with a vitality I can no longer quite reclaim. 春风若有怜花意，可否许我再少年？
 
