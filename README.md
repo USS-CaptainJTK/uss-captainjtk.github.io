@@ -24,10 +24,11 @@ USS-CaptainJTK comes from "Star Trek" where Captain of Starship USS Enterprise, 
 
 # 教育背景
 
+2026.10.1-now Universität Hamburg, 读博ing
 
-2025.10.1-至今Universität Hamburg, Mathematical Physics
+2025.10.1-2026.10.1 Universiät Hamburg, Mathematical Physics, M.Sc.
 
-2022.10.1-2025.10.1 Universität Hamburg, Physik, Bachelor
+2022.10.1-2025.10.1 Universität Hamburg, Physik, B.Sc.
 
 2021.9.15-2021.10.15 北京科技大学，北京
 
