@@ -43,6 +43,8 @@ USS-CaptainJTK comes from "Star Trek" where Captain of Starship USS Enterprise, 
 
 除了量子场论笔记和超对称与几何的补充笔记和Bethe拟设和引力以外，其他笔记均是中文。
 
+-<a href="https://github.com/USS-CaptainJTK/uss-captainjtk.github.io/raw/main/PhilosophyofDeath.pdf" target="_blank">死亡哲学</a>（耶鲁那个公开课）
+
 -引力(自学笔记，搜集网上的各种资料，涵盖我感兴趣的任意话题)[Notes on Gravity](https://www.overleaf.com/read/ccydcdbrznxk#43fe51)
 
 -Bethe拟设技术(半自学笔记，是G.Arutyunov26年书的教学版)[Notes on Bethe Ansatz](https://www.overleaf.com/read/bjbynvdkpfrk#39d258)
